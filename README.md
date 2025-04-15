@@ -1,1 +1,1 @@
-# ml_helper_fn
+# Helper funtions for machine learning using tensorflow.
